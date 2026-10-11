@@ -1,0 +1,10 @@
+{
+  "products": [
+    { "id": 1, "name": "Томаты", "price": 850, "image": "https://placehold.co/400x300/e8f3e8/2f6b3a?text=Томаты" },
+    { "id": 2, "name": "Огурцы", "price": 700, "image": "https://placehold.co/400x300/e8f3e8/2f6b3a?text=Огурцы" },
+    { "id": 3, "name": "Картофель", "price": 300, "image": "https://placehold.co/400x300/e8f3e8/2f6b3a?text=Картофель" },
+    { "id": 4, "name": "Морковь", "price": 280, "image": "https://placehold.co/400x300/e8f3e8/2f6b3a?text=Морковь" },
+    { "id": 5, "name": "Яблоки", "price": 650, "image": "https://placehold.co/400x300/e8f3e8/2f6b3a?text=Яблоки" },
+    { "id": 6, "name": "Мёд", "price": 3500, "image": "https://placehold.co/400x300/e8f3e8/2f6b3a?text=Мёд" }
+  ]
+}
